@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\Tema Gramatici\Tema1Gramatica\Tema1Gramatica\main.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\Tema Gramatici\Tema1Gramatica\Tema1Gramatica\main.cpp(26,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\Tema Gramatici\Tema1Gramatica\Tema1Gramatica\main.cpp(36,21): warning C4018: '<': signed/unsigned mismatch
+  Tema1Gramatica.vcxproj -> C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\Tema Gramatici\Tema1Gramatica\Debug\Tema1Gramatica.exe
