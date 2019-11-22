@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AFD", "AFD\AFD.vcxproj", "{99C44645-5146-4B7B-99E8-F71AB77DFC4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C44645-5146-4B7B-99E8-F71AB77DFC4E}.Debug|x64.ActiveCfg = Debug|x64
+		{99C44645-5146-4B7B-99E8-F71AB77DFC4E}.Debug|x64.Build.0 = Debug|x64
+		{99C44645-5146-4B7B-99E8-F71AB77DFC4E}.Debug|x86.ActiveCfg = Debug|Win32
+		{99C44645-5146-4B7B-99E8-F71AB77DFC4E}.Debug|x86.Build.0 = Debug|Win32
+		{99C44645-5146-4B7B-99E8-F71AB77DFC4E}.Release|x64.ActiveCfg = Release|x64
+		{99C44645-5146-4B7B-99E8-F71AB77DFC4E}.Release|x64.Build.0 = Release|x64
+		{99C44645-5146-4B7B-99E8-F71AB77DFC4E}.Release|x86.ActiveCfg = Release|Win32
+		{99C44645-5146-4B7B-99E8-F71AB77DFC4E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11D02FF2-96C8-4554-B552-E6CE8BD2D715}
+	EndGlobalSection
+EndGlobal

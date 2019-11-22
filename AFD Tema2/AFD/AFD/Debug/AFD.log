@@ -1,0 +1,14 @@
+﻿  AFD.cpp
+C:\Users\Radu\source\repos\AFD\AFD\AFD.cpp(9,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Radu\source\repos\AFD\AFD\AFD.cpp(30,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Radu\source\repos\AFD\AFD\AFD.cpp(35,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Radu\source\repos\AFD\AFD\AFD.cpp(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Radu\source\repos\AFD\AFD\AFD.cpp(55,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Radu\source\repos\AFD\AFD\AFD.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Radu\source\repos\AFD\AFD\AFD.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Radu\source\repos\AFD\AFD\AFD.cpp(68,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Radu\source\repos\AFD\AFD\AFD.cpp(94,29): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+C:\Users\Radu\source\repos\AFD\AFD\AFD.cpp(99,29): warning C4018: '<': signed/unsigned mismatch
+  AFD.vcxproj -> C:\Users\Radu\source\repos\AFD\Debug\AFD.exe
