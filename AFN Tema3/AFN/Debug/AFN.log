@@ -1,0 +1,11 @@
+﻿  AFN.cpp
+C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\AFN\AFN\AFN.cpp(14,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\AFN\AFN\AFN.cpp(36,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\AFN\AFN\AFN.cpp(42,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\AFN\AFN\AFN.cpp(43,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\AFN\AFN\AFN.cpp(66,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\AFN\AFN\AFN.cpp(74,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\AFN\AFN\AFN.cpp(75,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\AFN\AFN\AFN.cpp(104,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\AFN\AFN\AFN.cpp(107,30): warning C4018: '<': signed/unsigned mismatch
+  AFN.vcxproj -> C:\Users\Alex Lung\Desktop\anul 2\sem 1\LFC\AFN\Debug\AFN.exe

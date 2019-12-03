@@ -1,0 +1,6 @@
+aabab
+baabab
+aab
+baaaababa
+bbbab
+aabaaa
